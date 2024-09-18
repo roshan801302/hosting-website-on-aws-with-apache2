@@ -125,5 +125,5 @@ Add a new rule for HTTP on port 80 with Source: Anywhere (0.0.0.0/0).
 
    Enter your EC2 Public IP in the browser:
    eg. (13.45.589.25)
-3. You should see your custom HTML page! 🎉
+3. You should see your custom HTML page!
 
