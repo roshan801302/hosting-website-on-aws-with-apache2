@@ -1,5 +1,5 @@
 # Hosting a Website on AWS with Apache2 Using PowerShell
-### (These are the steps after launching instance and downloading .pem passkey)<br><br><br><br><br><br>
+### (These are the steps after launching instance and downloading .pem passkey)<br>
 ## Step 1: Connect to EC2 Instance Using PowerShell
 1. Open **PowerShell** in Windows.
 2. Navigate to your PEM file:
@@ -39,12 +39,3 @@ sudo vi index.html
 ### Add your website's HTML content and save the file.
 
 ## YAY! Your link or IP adress of your instance will now work.
-
-
-
-
-
-
-
-
-ChatGPT can make 
